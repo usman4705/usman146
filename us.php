@@ -1,2 +1,2 @@
-<?php include_once("./usman.html");?>
+<?php include_once("usman.html"); ?>
 
